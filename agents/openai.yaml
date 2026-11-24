@@ -1,0 +1,4 @@
+interface:
+  display_name: "reader-first-docs"
+  short_description: "把软件用法写清楚，并验证示例和实际结果一致"
+  default_prompt: "使用 $reader-first-docs，从读者任务出发检查用户文档，并分别验证示例结果和可读性。"
